@@ -8,11 +8,11 @@ Find it On Telegram As [@ForceSubscribeRobot](https://t.me/ForceSubscribeRoBot)
 
 # 👨‍💻 Deploy:
 ### -Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DamienSoukara/FSub-Heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adarshUC/Fsub_R0BOT)
 
 ### -Normal Way
 ```python3
-git clone https://github.com/DamienSoukara/FSub-Heroku
+git clone https://github.com/adarshUC/Fsub_R0BOT
 cd FSub-Heroku
 pip3 install -r requirements.txt
 python3 bot.py
@@ -31,7 +31,3 @@ python3 bot.py
 **Command :** ```/fsub on/off/disable``` <br />
 **Usage :** To Turn Of ForceSubscribe.. <br />
 
-
-## 👨‍💻 Credits :
-Special Thanks To [@AdnanAhmad](https://github.com/viperadnan-git) & [@AmineSoukara](https://github.com/AmineSoukara) & [@Pyrogram](https://github.com/Pyrogram)
-## 🖤 Original Repo : [Github@Viperadnan-Git](https://github.com/viperadnan-git/force-subscribe-telegram-bot)
